@@ -1,0 +1,20 @@
+.App {
+   background-color: rgb(80, 14, 66);
+   height: 100vh;
+   overflow-x: hidden;
+   overflow-y: auto;
+   perspective: 1px;
+   background-attachment: fixed;
+
+
+}
+
+.prueba {
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   justify-content: center;
+   align-items: center; 
+   height: 100vh;
+   text-align: center;
+}

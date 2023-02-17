@@ -1,0 +1,23 @@
+.Barra{
+    margin-left: 15%;
+    width: 50%;
+    height: 3rem;
+    margin-top: 2.3rem;
+    font-size: 2rem;
+    background-color: rgba(14, 82, 1, 0.377);
+    color: rgb(241, 167, 62);
+    border-color: rgb(1, 10, 1);
+    border-width: 0.1rem;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}   
+
+.Boton {
+    width: 20%;
+    height: 3rem;
+    font-size: 2rem;
+    background-color: rgba(14, 82, 1, 0.377);
+    color: rgb(241, 167, 62);
+    border-color: rgb(0, 0, 0);
+    align-content: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

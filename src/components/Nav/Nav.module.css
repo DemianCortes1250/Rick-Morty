@@ -1,0 +1,10 @@
+.Fondo {
+    position: absolute;
+    right:25%;
+    border-style: double;
+    background-color: rgba(0, 0, 0, 0.329);
+    top: 2rem;
+    width: 50%;
+    height: 10%;
+    border-color: rgb(247, 92, 208);
+}

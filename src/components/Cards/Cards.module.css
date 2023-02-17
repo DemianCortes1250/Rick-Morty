@@ -1,0 +1,9 @@
+.Fondo {
+gap: 8rem;
+margin-top: 13rem;
+margin-bottom: 5rem;
+display: inline-flex;
+flex-direction: row;
+flex-wrap: wrap;
+margin-left: 15%;
+}
